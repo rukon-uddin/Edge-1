@@ -1,0 +1,11 @@
+banana *
+apple *
+mango *
+orange *
+Chicken
+beef
+fish
+bread *
+pasta *
+pizza *
+burger *
